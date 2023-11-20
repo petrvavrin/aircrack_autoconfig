@@ -1,4 +1,4 @@
-# AUTOMATIC CONFIGURATION OF AIRMON
+# Configures airmon and runs airodump in a single bash file.
 
 sudo airmon-ng check kill
 sudo airmon-ng start wlan0
